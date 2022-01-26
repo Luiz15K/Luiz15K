@@ -2,7 +2,7 @@ Wassup!!! Luizz>>>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Luiz15K GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz15K&show_icons=true&theme=radical)
 
 
 - Desenvolvimento com Front-End;
