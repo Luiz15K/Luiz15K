@@ -3,15 +3,17 @@ Wassup!!! Luizz>>>
 
 
 ![Luiz15K GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz15K&show_icons=true&theme=radical)
+  <div>
+    <a href="mailto:luizguilherme011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a
+  </div>
 
-
+  
 - Desenvolvimento com Front-End;
 - Estudando Python;
 
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+
+
   
-<!---
-Luiz15K/Luiz15K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
